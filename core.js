@@ -34,6 +34,7 @@ var available_langs = {
     "ua_ua": { "name": "Українська", "file": "ua_ua.json", "direction": "ltr"},
     "ru_ru": { "name": "Русский", "file": "ru_ru.json", "direction": "ltr"},
     "tr_tr": { "name": "Türkçe", "file": "tr_tr.json", "direction": "ltr"},
+    "ur_pk": { "name": "اردو", "file": "ur_pk.json", "direction": "rtl"},
     "zh_cn": { "name": "中文", "file": "zh_cn.json", "direction": "ltr"},
     "zh_tw": { "name": "中文(繁)", "file": "zh_tw.json", "direction": "ltr"}
 };
